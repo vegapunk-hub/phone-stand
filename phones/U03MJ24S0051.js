@@ -9,9 +9,9 @@
 // ============================================================
 window.PHONES = window.PHONES || {};
 window.PHONES["U03MJ24S0051"] = {
-  phone:   "vivo",          // phone name and model
-  android: "11",                          // Android version (number only)
-  ram:     3,                             // RAM in GB (number only)
+  phone:   "Samsung Galaxy M14",          // phone name and model
+  android: "13",                          // Android version (number only)
+  ram:     6,                             // RAM in GB (number only)
   rom:     128,                           // ROM / storage in GB (number only)
   apps:    ["WhatsApp", "YouTube", "Instagram"],   // top 3 most-used apps
   pro:     "Battery lasts two days",      // ONE good thing
