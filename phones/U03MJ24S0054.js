@@ -8,7 +8,7 @@
 //    ( " ), comma ( , ) and bracket exactly as it is.
 // ============================================================
 window.PHONES = window.PHONES || {};
-window.PHONES["U03MJ24S0002"] = {
+window.PHONES["U03MJ24S0054"] = {
   phone:   "Samsung Galaxy S24",          // phone name and model
   android: "17",                          // Android version (number only)
   ram:     8,                             // RAM in GB (number only)
